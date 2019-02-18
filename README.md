@@ -1,5 +1,8 @@
 # Image Super Resolution using Generative Adversarial Networks
 
+Modify Archetecture base on SRGAN
+
+
 ### Architecture:
 
 ![Architecture](/img/ESRGAN2m.png)
