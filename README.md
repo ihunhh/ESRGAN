@@ -1,8 +1,8 @@
 # ESRGAN
 ## Image Super Resolution using Generative Adversarial Networks
 
->Architecture:
+Architecture:
 
-![Alt text](/path/to/img.jpg)
+![Alt text](ESRGAN/img/ESRGAN2m.png)
 
 Generator:
