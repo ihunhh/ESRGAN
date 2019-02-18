@@ -1,4 +1,4 @@
-# Image Super Resolution using Generative Adversarial Networks
+## Image Super Resolution using Generative Adversarial Networks
 
 ### Base on SRGAN
 
