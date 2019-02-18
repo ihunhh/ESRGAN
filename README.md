@@ -1,6 +1,19 @@
 # Image Super Resolution using Generative Adversarial Networks
 
-Modify Archetecture base on SRGAN
+### Base on SRGAN
+
+### Modify:
+
+#### 1. feature extration part
+
+
+#### 2. reconstruction part
+
+
+
+import WGAN
+
+
 
 
 ### Architecture:
