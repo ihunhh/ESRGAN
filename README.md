@@ -10,9 +10,11 @@
 #### 2. reconstruction part:
 
 
-#### 3. loss funtion: 
-import SSIM as a loss
-import WGAN
+#### 3. loss funtion:
+
+                import SSIM as a loss
+
+                import WGAN
 
 
 
