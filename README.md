@@ -4,13 +4,14 @@
 
 ### Modify:
 
-#### 1. feature extration part
+#### 1. feature extration part:
 
 
-#### 2. reconstruction part
+#### 2. reconstruction part:
 
 
-
+#### 3. loss funtion: 
+import SSIM as a loss
 import WGAN
 
 
