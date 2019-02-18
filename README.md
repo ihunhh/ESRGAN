@@ -23,7 +23,7 @@
 
 ![Architecture](/img/ESRGAN2m.png)
 
-       
+=======
 
 ### Loss flow:
 
