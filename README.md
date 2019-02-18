@@ -1,10 +1,10 @@
 # Image Super Resolution using Generative Adversarial Networks
 
-## Architecture:
+### Architecture:
 
 ![Alt text](/img/ESRGAN2m.png)
 
-## Requirement:
+### Requirement:
 
         python ver. 3.6.5
         tensorflow ver. 1.8.0
