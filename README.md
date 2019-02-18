@@ -12,9 +12,9 @@
 
 #### 3. loss funtion:
 
-                import SSIM as aloss function replace with MSE 
+* import SSIM as aloss function replace with MSE 
 
-                import WGAN
+* import WGAN
 
 
 
