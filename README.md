@@ -11,6 +11,7 @@
 
 ![Alt text](/img/ESRGAN2m.png)
 
-## Requirement
+## Requirement:
+1. tensorflow
 
 
