@@ -3,6 +3,6 @@
 
 Architecture:
 
-![Alt text](ESRGAN/img/ESRGAN2m.png)
+![Alt text](/img/ESRGAN2m.png)
 
 Generator:
