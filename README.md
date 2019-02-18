@@ -2,7 +2,7 @@
 
 ### Architecture:
 
-![Alt text](/img/ESRGAN2m.png)
+![Architecture](/img/ESRGAN2m.png)
 
 ### Requirement:
 
