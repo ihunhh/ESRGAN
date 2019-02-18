@@ -25,7 +25,7 @@
 
 ### Loss flow:
 
-![LossFlow](/img/)
+![LossFlow](/img/lossflowm.png)
 
 ### Requirement:
 
