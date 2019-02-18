@@ -12,7 +12,7 @@
 
 #### 3. loss funtion:
 
-                import SSIM as a loss
+                import SSIM as aloss function replace with MSE 
 
                 import WGAN
 
@@ -22,6 +22,10 @@
 ### Architecture:
 
 ![Architecture](/img/ESRGAN2m.png)
+
+### Loss flow:
+
+![LossFlow](/img/)
 
 ### Requirement:
 
