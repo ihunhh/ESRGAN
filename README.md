@@ -81,6 +81,6 @@ ___
 
 <br />
 
-* STL10, source from Stanford University
-    * [STL10](http://oomusou.io)
+* Collecting from STL10, source from Stanford University
+    * [STL10 dataset](http://oomusou.io)
 
