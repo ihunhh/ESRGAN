@@ -81,7 +81,7 @@ ___
 
 <br />
 
-samlpe
+Samlpe:
 
 ![datasample](/img/sample.png)
 
