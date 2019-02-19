@@ -2,7 +2,7 @@
 
 ### Purpose
 
-![purpose](/img/purpose.png)
+![purpose](/img/purpose.jpg)
 
 ### Base on SRGAN
 
