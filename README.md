@@ -10,7 +10,7 @@
 
 * ***Multiple kernel*** size and ***fusion*** ( for multiple ***receptive field*** and ***data character*** )
 
-
+<br />
 
 #### 2. Reconstruction part:
 
