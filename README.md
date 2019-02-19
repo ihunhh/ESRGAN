@@ -76,7 +76,10 @@ ___
 + tensorlayer ver. 1.8.5
 
 <br />
+
 ### Data:
+
+<br />
 
     STL10, source from Stanford University 
     dataset
