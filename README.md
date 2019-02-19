@@ -51,7 +51,7 @@ ___
 
 <br />
 
-![Architecture](/img/ESRGAN2m.png)
+![Architecture](/img/architecture.png)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 <br />
 
-![LossFlow](/img/lossflowm.png)
+![LossFlow](/img/lossflow.png)
 
 ___
 
