@@ -36,9 +36,6 @@
 
 <br />
 
-___
-
-
 ### Architecture:
 
 <br />
