@@ -47,11 +47,15 @@ ___
 
 <br />
 
+<br />
+
 ![Architecture](/img/ESRGAN2m.png)
 
 ___
 
 ### Loss flow:
+
+<br />
 
 <br />
 
