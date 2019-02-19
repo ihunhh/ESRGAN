@@ -6,11 +6,9 @@
 
 ![purpose](/img/purpose.jpg)
 
-### Base on ***[SRGAN](https://arxiv.org/abs/1609.04802)***
+## Modifying based on Modify based on ***[SRGAN](https://arxiv.org/abs/1609.04802)***
 
-### Modify:
-
-#### *Generator*
+### *Generator*
 
 <br />
 
