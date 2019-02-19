@@ -27,18 +27,20 @@
 
 * using pretrained VGG19 layer one as a loss function
 
-___________________
+___
 
 
 ### Architecture:
 
 ![Architecture](/img/ESRGAN2m.png)
 
-=======
+___
 
 ### Loss flow:
 
 ![LossFlow](/img/lossflowm.png)
+
+___
 
 ### Requirement:
 
