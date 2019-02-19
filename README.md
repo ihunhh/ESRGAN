@@ -29,6 +29,10 @@
 <br />
 
 ### *Discriminator*
+
+* Decreasing number of layer
+
+* import ***WGAN-GP*** strategy
 ___
 
 
