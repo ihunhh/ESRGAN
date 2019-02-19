@@ -6,24 +6,24 @@
 
 ### *Generator*
 
-#### 1. feature extration part:
+#### 1. Feature extration part:
 
-* ***multiple kernel*** size and ***fusion***
-
-
-
-#### 2. reconstruction part:
-
-* using ***upsizing convolution*** replace with pixelShuffle
-
-* adjust the number of layer and kernel size
+* ***Multiple kernel*** size and ***fusion***
 
 
-#### 3. loss funtion:
 
-* using ***SSIM*** as a loss function replace with MSE 
+#### 2. Reconstruction part:
 
-* using ***pretrained VGG19 first layer*** as a loss function
+* Using ***upsizing convolution*** replace with pixelShuffle
+
+* Adjust the number of layer and kernel size
+
+
+#### 3. Loss funtion:
+
+* Using ***SSIM*** as a loss function replace with MSE 
+
+* Using ***pretrained VGG19 first layer*** as a loss function
 
 ___
 
