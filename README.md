@@ -42,7 +42,7 @@
 
 * Decreasing number of layer
 
-* import ***WGAN-GP*** strategy
+* Importing ***WGAN-GP*** strategy
 
 <br />
 
