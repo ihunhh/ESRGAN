@@ -41,11 +41,15 @@ ___
 
 ### Architecture:
 
+<br />
+
 ![Architecture](/img/ESRGAN2m.png)
 
 ___
 
 ### Loss flow:
+
+<br />
 
 ![LossFlow](/img/lossflowm.png)
 
