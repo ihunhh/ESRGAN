@@ -4,6 +4,8 @@
 
 ### Modify:
 
+### *Generator*
+
 #### 1. feature extration part:
 
 * ***multiple kernel*** size and ***fusion***
