@@ -81,8 +81,7 @@ ___
 
 <br />
 
-    STL10, source from Stanford University
+STL10, source from Stanford University
     
-    
-    \[STL](http://oomusou.io)
+[STL](http://oomusou.io)
 
