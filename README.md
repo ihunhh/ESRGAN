@@ -75,4 +75,9 @@ ___
 + tensorflow ver. 1.8.0
 + tensorlayer ver. 1.8.5
 
+<br />
+### Data:
+
+    STL10, source from Stanford University 
+    dataset
 
