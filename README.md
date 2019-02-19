@@ -6,18 +6,28 @@
 
 #### 1. feature extration part:
 
+* multiple kernel size and concate
+
+** iii
+
+* 
+
+
 
 #### 2. reconstruction part:
+
+* using upsizing convolution replace with pixelShuffle
+
+* adjust the number of layer and kernel size
 
 
 #### 3. loss funtion:
 
-* import SSIM as a loss function replace with MSE 
+* using SSIM as a loss function replace with MSE 
 
-* import WGAN
+* using pretrained VGG19 layer one as a loss function
 
-1. llll
-123. dwef
+
 
 
 ### Architecture:
