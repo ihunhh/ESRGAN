@@ -1,6 +1,12 @@
 ## Image Super Resolution using Generative Adversarial Networks
 
-### Purpose
+### Purpose:
+
+<br />
+
+<br />
+
+<br />
 
 ![purpose](/img/purpose.jpg)
 
