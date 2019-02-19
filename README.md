@@ -1,5 +1,9 @@
 ## Image Super Resolution using Generative Adversarial Networks
 
+### Purpose
+
+![purpose](/img/architecture.png)
+
 ### Base on SRGAN
 
 ### Modify:
