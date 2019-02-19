@@ -33,6 +33,8 @@
 * Decreasing number of layer
 
 * import ***WGAN-GP*** strategy
+
+<br />
 ___
 
 
