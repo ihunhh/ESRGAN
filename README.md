@@ -83,7 +83,6 @@ ___
 
     STL10, source from Stanford University
     
-    <br />
     
-    [STL](http://oomusou.io)
+    \[STL](http://oomusou.io)
 
