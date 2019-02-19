@@ -27,7 +27,7 @@
 
 * using pretrained VGG19 layer one as a loss function
 
-
+___________________
 
 
 ### Architecture:
