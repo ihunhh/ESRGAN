@@ -82,5 +82,5 @@ ___
 <br />
 
     STL10, source from Stanford University 
-    dataset
+    [STL](http://oomusou.io)
 
