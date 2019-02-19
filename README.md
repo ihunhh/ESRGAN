@@ -25,6 +25,7 @@
 
 * Using ***pretrained VGG19 first layer*** as a loss function
 
+### *Discriminator*
 ___
 
 
