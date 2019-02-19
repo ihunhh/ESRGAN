@@ -2,8 +2,6 @@
 
 ### Base on SRGAN
 
-<br />
-
 ### Modify:
 
 ### *Generator*
@@ -19,14 +17,14 @@
 * Using ***upsizing convolution*** replace with pixelShuffle
 
 * Adjust the number of layer and kernel size
-
+<br />
 
 #### 3. Loss funtion:
 
 * Using ***SSIM*** as a loss function replace with MSE 
 
 * Using ***pretrained VGG19 first layer*** as a loss function
-
+<br />
 ### *Discriminator*
 ___
 
