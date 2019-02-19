@@ -49,6 +49,8 @@ ___
 
 <br />
 
+<br />
+
 ![Architecture](/img/ESRGAN2m.png)
 
 ___
@@ -59,11 +61,15 @@ ___
 
 <br />
 
+<br />
+
 ![LossFlow](/img/lossflowm.png)
 
 ___
 
 ### Requirement:
+
+<br />
 
 + python ver. 3.6.5
 + tensorflow ver. 1.8.0
