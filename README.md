@@ -11,22 +11,19 @@
 * ***multiple kernel*** size and ***fusion***
 
 
-* 
-
-
 
 #### 2. reconstruction part:
 
-* using upsizing convolution replace with pixelShuffle
+* using ***upsizing convolution*** replace with pixelShuffle
 
 * adjust the number of layer and kernel size
 
 
 #### 3. loss funtion:
 
-* using SSIM as a loss function replace with MSE 
+* using ***SSIM*** as a loss function replace with MSE 
 
-* using pretrained VGG19 layer one as a loss function
+* using ***pretrained VGG19 first layer*** as a loss function
 
 ___
 
