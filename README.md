@@ -2,7 +2,7 @@
 
 ### Purpose
 
-![purpose](/img/architecture.png)
+![purpose](/img/purpose.png)
 
 ### Base on SRGAN
 
