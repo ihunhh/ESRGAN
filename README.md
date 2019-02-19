@@ -6,6 +6,8 @@
 
 ### *Generator*
 
+<br />
+
 #### 1. Feature extration part:
 
 * ***Multiple kernel*** size and ***fusion*** ( for multiple ***receptive field*** and ***data character*** )
@@ -29,6 +31,8 @@
 <br />
 
 ### *Discriminator*
+
+<br />
 
 * Decreasing number of layer
 
