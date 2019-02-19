@@ -8,7 +8,7 @@
 
 * multiple kernel size and concate
 
-<font color=gray size=72>color=gray</font>
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
 
 * 
 
