@@ -17,7 +17,7 @@
 * import WGAN
 
 1. llll
-
+123. dwef
 
 
 ### Architecture:
