@@ -6,7 +6,7 @@
 
 #### 1. feature extration part:
 
-* **multiple kernel** size and concate
+* ***multiple kernel*** size and concate
 
 
 * 
