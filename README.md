@@ -14,15 +14,11 @@
 
 * ***Multiple kernel*** size and ***fusion*** ( for multiple ***receptive field*** and ***data character*** )
 
-<br />
-
 #### 2. Reconstruction part:
 
 * Using ***upsizing convolution*** replace with pixelShuffle
 
 * Adjust the number of layer and kernel size
-
-<br />
 
 #### 3. Loss funtion:
 
