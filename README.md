@@ -81,6 +81,10 @@ ___
 
 <br />
 
+![datasample](/img/sample.png)
+
+<br />
+
 * Collecting from STL10, source from ***[Stanford University CS](https://cs.stanford.edu/~acoates/stl10/)***
     * ***[STL10 dataset](http://oomusou.io)***
 
