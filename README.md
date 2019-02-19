@@ -43,25 +43,17 @@ ___
 
 <br />
 
-<br />
-
-<br />
-
 ![Architecture](/img/architecture.png)
 
-___
+<br />
 
 ### Loss flow:
 
 <br />
 
-<br />
-
-<br />
-
 ![LossFlow](/img/lossflow.png)
 
-___
+<br />
 
 ### Requirement:
 
