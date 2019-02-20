@@ -76,6 +76,8 @@ Samlpe:
   
   ### Procedure:
   
+  Putting training and testing data in 
+  
   * ***training***
   
     ```python main.py```
