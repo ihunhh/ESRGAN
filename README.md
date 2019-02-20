@@ -71,9 +71,9 @@ Samlpe:
 
 * Collecting from STL10, source from ***[Stanford University](https://cs.stanford.edu/~acoates/stl10/)***
 
-    * ***[training dataset](https://drive.google.com/open?id=1FQxb7fFC2A-taChBujBf9-4cfpbNfUty)***
+    * ***[training dataset](https://drive.google.com/file/d/1FQxb7fFC2A-taChBujBf9-4cfpbNfUty/view?usp=sharing)***
   
-    * ***[testing dataset](https://drive.google.com/open?id=1T2nCA9sTozLz1Rarc7kRfiABXKMMdCHv)***
+    * ***[testing dataset](https://drive.google.com/file/d/1T2nCA9sTozLz1Rarc7kRfiABXKMMdCHv/view?usp=sharing)***
 
   
 <br />
