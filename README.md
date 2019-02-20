@@ -77,6 +77,5 @@ Samlpe:
   ### Procedure:
   
   * ***training***
-  
-    python main.py
+  ```python main.py```
 
