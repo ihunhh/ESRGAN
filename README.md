@@ -82,4 +82,7 @@ Samlpe:
   * ***training***
   
     ```python main.py```
-
+    
+  * ***testing***
+  
+    ```python main.py --mode=evaluate```
