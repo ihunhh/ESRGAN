@@ -10,9 +10,9 @@
 
 #### 1. Feature extration part:
 
-* ***Multiple kernel*** size and ***fusion*** ( for multiple ***receptive field*** and ***data character*** ), 
+* ***Multiple kernel*** size and ***fusion*** ( for multiple ***receptive field*** and ***data character*** )
 
-1x1 convolution for concentrating feature
+  1x1 convolution for concentrating feature
 
 #### 2. Reconstruction part:
 
