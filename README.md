@@ -52,8 +52,6 @@
 
 ### Requirement:
 
-<br />
-
 ```
 python ver. 3.6.5
 tensorflow ver. 1.8.0
