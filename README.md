@@ -69,5 +69,5 @@ Samlpe:
 <br />
 
 * Collecting from STL10, source from ***[Stanford University CS](https://cs.stanford.edu/~acoates/stl10/)***
-* ***[training dataset](http://oomusou.io)***
+** ***[training dataset](http://oomusou.io)***
 
