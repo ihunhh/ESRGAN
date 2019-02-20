@@ -64,8 +64,6 @@ tensorlayer ver. 1.8.5
 
 ### Data:
 
-<br />
-
 Samlpe:
 
 ![datasample](/img/sample.png)
