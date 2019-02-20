@@ -72,9 +72,9 @@ Samlpe:
   * ***[training dataset](https://drive.google.com/open?id=1FQxb7fFC2A-taChBujBf9-4cfpbNfUty)***
   * ***[testing dataset](https://drive.google.com/open?id=1T2nCA9sTozLz1Rarc7kRfiABXKMMdCHv)***
   
-  <br />
+<br />
   
-  ### Procedure:
+### Procedure:
   
   Putting training and testing data in 
   
