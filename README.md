@@ -2,8 +2,6 @@
 
 ### Purpose:
 
-<br />
-
 ![purpose](/img/purpose.jpg)
 
 * Modifying based on ***[SRGAN](https://arxiv.org/abs/1609.04802)***
