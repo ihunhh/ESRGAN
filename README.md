@@ -74,7 +74,12 @@ Samlpe:
     * ***[training dataset](https://drive.google.com/file/d/1FQxb7fFC2A-taChBujBf9-4cfpbNfUty/view?usp=sharing)***
   
     * ***[testing dataset](https://drive.google.com/file/d/1T2nCA9sTozLz1Rarc7kRfiABXKMMdCHv/view?usp=sharing)***
+    
+<br />
 
+### Pre-trained model:
+
+* 10000 epoch ***[pre-trained model download](https://cs.stanford.edu/~acoates/stl10/)***
   
 <br />
   
