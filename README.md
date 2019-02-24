@@ -67,7 +67,7 @@ tensorflow ver. 0.12.0-rc1
 
    ![datasample](/img/sample.png)
 
-<br />
+* My input size is ***12x12***, ground truth is ***48x48***, resize from STL10(original 96x96)
 
 * Collecting from STL10, source from ***[Stanford University](https://cs.stanford.edu/~acoates/stl10/)***
 
