@@ -108,6 +108,6 @@ tensorflow ver. 0.12.0-rc1
   
 ### Results:
 
-   #### Image:
+* Image:
 
-      ![results_img](/img/results_img.jpg)
+   ![results_img](/img/results_img.jpg)
