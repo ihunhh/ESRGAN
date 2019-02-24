@@ -79,9 +79,13 @@ tensorflow ver. 0.12.0-rc1
 
 ### Pre-trained model:
 
-* ***[10000 epoch](https://cs.stanford.edu/~acoates/stl10/)***
+* Putting them in ***checkpoint*** folder
 
-   * Putting them in ***checkpoint*** folder
+   * ***[10000 epoch](https://cs.stanford.edu/~acoates/stl10/)***
+   
+      * ***[10000 epoch](https://cs.stanford.edu/~acoates/stl10/)***
+
+   
   
 <br />
   
