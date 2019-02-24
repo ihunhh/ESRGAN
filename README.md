@@ -5,7 +5,7 @@
 ![purpose](/img/purpose.jpg)
 
 * Modifying based on ***[SRGAN](https://arxiv.org/abs/1609.04802)***
-* upsizing image to ***4x*** one
+* upsizing image to ***4x***
 
 ### *Generator*
 
