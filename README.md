@@ -112,7 +112,6 @@ tensorflow ver. 0.12.0-rc1
 
    ![results_img](/img/results_img.jpg)
 
-<br />
 
 * ***Comparison with other method:***
 
