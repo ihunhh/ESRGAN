@@ -89,10 +89,10 @@ Samlpe:
   
   * Putting training and testing data in data2017
   
-  * ***training***
+   * ***training***
   
-    ```python main.py```
+      ```python main.py```
     
-  * ***testing***
+   * ***testing***
   
-    ```python main.py --mode=evaluate```
+      ```python main.py --mode=evaluate```
