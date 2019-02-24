@@ -81,7 +81,7 @@ tensorflow ver. 0.12.0-rc1
 
 * Putting them in ***checkpoint*** folder
 
-   * ***[10000 epoch](https://cs.stanford.edu/~acoates/stl10/)***
+   * ***10000 epoch***
    
       * ***[generator](https://cs.stanford.edu/~acoates/stl10/)***
       
