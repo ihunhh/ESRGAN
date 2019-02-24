@@ -114,6 +114,6 @@ tensorflow ver. 0.12.0-rc1
 
 <br />
 
-* ***Comparsion with other method:***
+* ***Comparison with other method:***
 
    ![results_sheet](/img/results_sheet.jpg)
