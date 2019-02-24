@@ -83,7 +83,9 @@ tensorflow ver. 0.12.0-rc1
 
    * ***[10000 epoch](https://cs.stanford.edu/~acoates/stl10/)***
    
-      * ***[10000 epoch](https://cs.stanford.edu/~acoates/stl10/)***
+      * ***[generator](https://cs.stanford.edu/~acoates/stl10/)***
+      
+      * ***[discriminator](https://cs.stanford.edu/~acoates/stl10/)***
 
    
   
