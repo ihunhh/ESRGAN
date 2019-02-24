@@ -108,12 +108,12 @@ tensorflow ver. 0.12.0-rc1
   
 ### Results:
 
-* Image:
+* ***Image:***
 
    ![results_img](/img/results_img.jpg)
 
 <br />
 
-* Comparsion with other method:
+* ***Comparsion with other method:***
 
    ![results_sheet](/img/results_sheet.jpg)
