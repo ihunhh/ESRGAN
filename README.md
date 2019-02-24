@@ -63,7 +63,7 @@ tensorflow ver. 0.12.0-rc1
 
 ### Data:
 
-Samlpe:
+* Samlpe:
 
 ![datasample](/img/sample.png)
 
