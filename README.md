@@ -40,7 +40,7 @@
 
 <br />
 
-![Architecture](/img/architecture.png)
+![Architecture](/img/Architecture.png)
 
 <br />
 
