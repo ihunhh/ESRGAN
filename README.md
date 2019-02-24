@@ -87,7 +87,7 @@ Samlpe:
   
 ### Procedure:
   
-  Putting training and testing data in data2017
+  * Putting training and testing data in data2017
   
   * ***training***
   
