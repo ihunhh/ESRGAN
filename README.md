@@ -109,7 +109,7 @@ tensorflow ver. 0.12.0-rc1
     
    * ***testing***
   
-      ```python main.py --mode=evaluate```
+      ```python main.py --mode=testing```
       
  <br />
   
