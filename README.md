@@ -81,7 +81,7 @@ Samlpe:
 
 * ***[10000 epoch](https://cs.stanford.edu/~acoates/stl10/)***
 
-   * Putting it in ***checkpoint*** folder
+   * Putting them in ***checkpoint*** folder
   
 <br />
   
