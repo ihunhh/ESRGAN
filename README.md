@@ -80,13 +80,20 @@ tensorflow ver. 0.12.0-rc1
 
 ### Pre-trained model:
 
-* Putting them in ***checkpoint*** folder
+* ***myWork:***
 
-   * ***10000 epoch***
+   * Putting them in ***checkpoint*** folder
+
+      * ***10000 epoch***
    
-      * ***[generator](https://drive.google.com/file/d/1wHzn3cu6U1tVEkkQ2VoqQnjeCA4ZyDHN/view?usp=sharing)***
+         * ***[generator](https://drive.google.com/file/d/1wHzn3cu6U1tVEkkQ2VoqQnjeCA4ZyDHN/view?usp=sharing)***
       
-      * ***[discriminator](https://drive.google.com/file/d/1mWa5jJIYcvIsgWcjcOaKkszwrR51FIsF/view?usp=sharing)***
+         * ***[discriminator](https://drive.google.com/file/d/1mWa5jJIYcvIsgWcjcOaKkszwrR51FIsF/view?usp=sharing)***
+         
+* ***VGG19:***
+   
+   * ***[pre-trained model](https://drive.google.com/file/d/1p4KTvPjGrrGqB78poKst9CA4CavHtPfu/view?usp=sharing)***
+   
 
    
   
