@@ -56,7 +56,7 @@
 
 ```
 python ver. 3.6.5
-tensorflow ver. 1.8.0
+tensorflow ver. 0.12.0-rc1
 ```
 
 <br />
