@@ -79,9 +79,7 @@ Samlpe:
 
 ### Pre-trained model:
 
-* ***[pre-trained model download](https://cs.stanford.edu/~acoates/stl10/)***
-
-   * ***10000 epoch***
+* ***[10000 epoch](https://cs.stanford.edu/~acoates/stl10/)***
   
 <br />
   
