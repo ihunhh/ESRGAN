@@ -29,7 +29,7 @@
 
 * Using ***upsizing convolution*** replace with pixelShuffle
 
-* Adjust the number of layer and kernel size
+* Adjust the number of layer and ***kernel size***
 
 #### 3. Loss funtion:
 
