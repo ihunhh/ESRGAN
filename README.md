@@ -29,19 +29,20 @@
 
 <br />
 
-### *Discriminator*
-
-* Decreasing number of layer
-
-* Importing ***WGAN-GP*** strategy
-
-<br />
-
 ### Architecture:
 
 <br />
 
 ![Architecture](/img/architecture.png)
+
+<br />
+
+
+### *Discriminator*
+
+* Decreasing number of layer
+
+* Importing ***WGAN-GP*** strategy
 
 <br />
 
