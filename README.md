@@ -3,6 +3,7 @@
 ### Purpose:
 
 ![purpose](/img/purpose.jpg)
+<img src="/img/purpose.jpg" width="500">
 
 * **Modifying based on** ***[SRGAN](https://arxiv.org/abs/1609.04802)***
 * **upsizing image to** ***4x***
