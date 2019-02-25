@@ -7,6 +7,16 @@
 * Modifying based on ***[SRGAN](https://arxiv.org/abs/1609.04802)***
 * upsizing image to ***4x***
 
+<br />
+
+### Architecture:
+
+<br />
+
+![Architecture](/img/architecture.png)
+
+<br />
+
 ### *Generator*
 
 #### 1. Feature extration part:
@@ -28,15 +38,6 @@
 * Importing ***pretrained VGG19 first layer*** as a loss function
 
 <br />
-
-### Architecture:
-
-<br />
-
-![Architecture](/img/architecture.png)
-
-<br />
-
 
 ### *Discriminator*
 
