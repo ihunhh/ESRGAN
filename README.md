@@ -119,7 +119,7 @@ tensorflow ver. 0.12.0-rc1
 
 * ***Image:***
 
-   <img src="/img/HWblockdiagram/HW_blockdiagram_PKP.png" height="400">
+   <img src="/img/results_img.jpg" height="400">
 
 
 * ***Comparison with other methods:***
