@@ -43,7 +43,7 @@
 
 * **Decreasing** number of layer
 
-* Importing ***gradient penalty*** strategy, improvedability ability
+* Importing ***gradient penalty*** strategy, improved ability
 of ***discriminator***
 
 <br />
