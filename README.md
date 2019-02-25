@@ -41,7 +41,7 @@
 
 ### *Discriminator*
 
-* Decreasing number of layer
+* **Decreasing** number of layer
 
 * Importing ***WGAN-GP*** strategy
 
