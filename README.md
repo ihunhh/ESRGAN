@@ -39,7 +39,7 @@
 
 #### 4. Loss funtion:
 
-* Using ***SSIM*** as a loss function replace with MSE 
+* Using ***SSIM*** as a loss function
 
 * Importing ***pretrained VGG19 first layer*** as a loss function
 
