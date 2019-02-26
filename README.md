@@ -25,13 +25,17 @@
 
 * 1x1 convolution for ***concentrating feature***
 
-#### 2. Reconstruction part:
+#### 4. Residual block:
+
+* Using ***ELU*** function as activation to get more mapping ability
+
+#### 3. Reconstruction part:
 
 * Using ***upsizing convolution*** replace with pixelShuffle
 
 * Adjust the number of layer and ***kernel size***
 
-#### 3. Loss funtion:
+#### 4. Loss funtion:
 
 * Using ***SSIM*** as a loss function replace with MSE 
 
