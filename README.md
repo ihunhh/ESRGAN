@@ -136,11 +136,19 @@ tensorflow ver. 0.12.0-rc1
 ### Referrence:
 
 [1]	Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang."Image Super-Resolution Using Deep Convolutional Networks" Image, Video, and Multidimensional Signal Processing Workshop (IVMSP)， 2015.
+
 [2]	Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi. “Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network” Computer Vision and Pattern Recognition (CVPR), 2017.
-[3]	Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. “Generative Adversarial Networks” 2014
+
+[3]	Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. “Generative Adversarial Networks” 2014.
+
 [4]	Karen Simonyan, Andrew Zisserman. “Very Deep Convolutional Networks for Large-Scale Image	Recognition”  Pattern Recognition (ACPR), 2015.
+
 [5]	Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun “Deep Residual Learning for Image Recognition” 	Computer Vision and Pattern Recognition, 2015.
+
 [6]	Martin Arjovsky, Soumith Chintala, Léon Bottou. “Wasserstein GAN” arXiv.org Machine Learning (stat.ML); Machine Learning (cs.LG) 2017.
+
 [7]	Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville ” Improved Training of Wasserstein GANs ” arXiv.org Machine Learning (cs.LG); Machine Learning (stat.ML) 2017.
+
 [8]	Zhou Wang, Member, Alan Conrad Bovik, Fellow, Hamid Rahim Sheikh, Student Member, and Eero P. Simoncelli. ”Image Quality Assessment: From Error Visibility to Structural Similarity” IEEE Transactions on Image Processing, vol. 13, no. 4, pp. 600−612, Apr. 2004.
+
 [9]	Zhou Wang, Eero P. Simoncelli and Alan C. Bovik. “Multi-scale Structural Similarity for Image Quality Assessment” The Thrity-Seventh Asilomar Conference on Signals, Systems & Computers, 2003.
