@@ -27,7 +27,7 @@
 
 #### 4. Residual block:
 
-* Using ***ELU*** function as activation to get more mapping ability
+* Using ***ELU*** function as activation to get more ***mapping*** ability
 
 * Increasing more convolutional layer
 
