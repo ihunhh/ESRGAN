@@ -58,7 +58,7 @@ of ***discriminator***
 
 <br />
 
-![LossFlow](/img/lossflow.png)
+<img src="/img/lossflow.png" width="800">
 
 <br />
 
