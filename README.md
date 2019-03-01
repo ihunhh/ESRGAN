@@ -39,7 +39,7 @@
 
 #### 4. Loss funtion:
 
-* Using ***SSIM*** as a loss function
+* Using ***SSIM*** as a loss function to approach ***visual acceptance of human beings***
 
 <br />
 
