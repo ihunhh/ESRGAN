@@ -45,7 +45,7 @@
 
 ### *Discriminator*
 
-* **Decreasing** number of layer
+* **Decreasing** number of layers
 
 * Importing ***gradient penalty*** strategy, improved ability
 of ***discriminator***
