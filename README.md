@@ -108,7 +108,7 @@ tensorflow ver. 0.12.0-rc1
   
 ### Procedure:
   
-* Putting training and testing data in ***data2017***
+* Putting training and testing data in ***data2017*** folder
   
    * ***training***
   
