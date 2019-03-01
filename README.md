@@ -41,8 +41,6 @@
 
 * Using ***SSIM*** as a loss function
 
-* Importing ***pretrained VGG19 first layer*** as a loss function
-
 <br />
 
 ### *Discriminator*
