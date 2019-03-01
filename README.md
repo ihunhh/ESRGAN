@@ -25,7 +25,7 @@
 
 * 1x1 convolution for ***concentrating feature***
 
-#### 4. Residual block:
+#### 2. Residual block:
 
 * Using ***ELU*** function as activation to get more ***mapping*** ability
 
