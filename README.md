@@ -33,7 +33,7 @@
 
 #### 3. Reconstruction part:
 
-* Replace pixelShuffle with***upsizing convolution*** 
+* Replace pixelShuffle with ***upsizing convolution*** 
 
 * Adjust the number of layer and ***kernel size***
 
