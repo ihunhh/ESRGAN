@@ -35,7 +35,7 @@
 
 * Replace pixelShuffle with ***upsizing convolution*** 
 
-* Adjust the number of layer and ***kernel size***
+* Adjust the number of layer and ***kernel size*** for better reconstruction performance
 
 #### 4. Loss funtion:
 
