@@ -75,7 +75,7 @@ tensorflow ver. 0.12.0-rc1
 
    ![datasample](/img/sample.png)
 
-* My input size of images is ***12x12***, ground truth of images is ***48x48***, downsized from STL10 dataset(original size is 96x96)
+* My input size of images is ***12x12***, ground truth of images is ***48x48***, downsized from **STL10** dataset(original size is 96x96)
 
 * Selecting from STL10 by ***[Stanford University](https://cs.stanford.edu/~acoates/stl10/)***
 
