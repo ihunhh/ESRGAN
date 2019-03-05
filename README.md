@@ -147,7 +147,7 @@ tensorflow ver. 0.12.0-rc1
 
 [7]	Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville ” Improved Training of Wasserstein GANs ” arXiv.org Machine Learning (cs.LG); Machine Learning (stat.ML) 2017.
 
-[8]	Zhou Wang, Member, Alan Conrad Bovik, Fellow, Hamid Rahim Sheikh, Student Member, and Eero P. Simoncelli. ”Image Quality Assessment: From Error Visibility to Structural Similarity” IEEE Transactions on Image Processing, vol. 13, no. 4, pp. 600−612, Apr. 2004.
+[8]	Zhou Wang, Member, Alan Conrad Bovik, Fellow, Hamid Rahim Sheikh, Student Member, and Eero P. Simoncelli. ”Image Quality Assessment: From Error Visibility to Structural Similarity” IEEE Transactions on Image Processing, vol. 13, no. 4, pp. 600-612, Apr. 2004.
 
 [9]	Zhou Wang, Eero P. Simoncelli and Alan C. Bovik. “Multi-scale Structural Similarity for Image Quality Assessment” The Thrity-Seventh Asilomar Conference on Signals, Systems & Computers, 2003.
 
