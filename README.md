@@ -133,7 +133,7 @@ tensorflow ver. 0.12.0-rc1
 
 ### Referrence:
 
-   [1]	Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang."Image Super-Resolution Using Deep Convolutional Networks" Image, Video, and Multidimensional Signal Processing Workshop (IVMSP)， 2015.
+[1]	Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang."Image Super-Resolution Using Deep Convolutional Networks" Image, Video, and Multidimensional Signal Processing Workshop (IVMSP)， 2015.
 
 [2]	Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi. “Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network” Computer Vision and Pattern Recognition (CVPR), 2017.
 
