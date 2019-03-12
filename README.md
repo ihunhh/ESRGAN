@@ -130,6 +130,13 @@ tensorflow ver. 0.12.0-rc1
 * ***Comparison with other methods:***
 
    ![results_sheet](/img/results_sheet.jpg)
+   
+ <br />
+ 
+### Future work:
+   
+   ![results_sheet](/img/results_sheet.jpg)
+
 
 ### Referrence:
 
