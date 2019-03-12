@@ -135,7 +135,7 @@ tensorflow ver. 0.12.0-rc1
  
 ### Future work:
    
-   ![results_sheet](/img/FW.png)
+   ![results_sheet]()
 
 
 ### Referrence:
