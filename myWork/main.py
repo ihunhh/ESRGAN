@@ -391,7 +391,7 @@ def testing():
     ###========================== RESTORE G =============================###
     sess = tf.Session(config=tf.ConfigProto(allow_soft_placement=True, log_device_placement=False))
     tl.layers.initialize_global_variables(sess)
-    tl.files.load_and_assign_npz(sess=sess, name=checkpoint_dir+'/g_srgan.npz', network=net_g)
+    tl.files.load_and_assign_npz(sess=sess, name=checkpoint_dir+'/g_esrgan.npz', network=net_g)
 
     ###======================= EVALUATION =============================###
     start_time = time.time()
