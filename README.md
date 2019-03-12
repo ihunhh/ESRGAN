@@ -136,7 +136,9 @@ tensorflow ver. 0.12.0-rc1
 ### Future work:
    
    ![future work](/img/futureWork.png)
-
+   
+   * ***Detail:***
+      * ***remove VGG loss***
 
 ### Referrence:
 
