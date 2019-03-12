@@ -135,7 +135,7 @@ tensorflow ver. 0.12.0-rc1
  
 ### Future work:
    
-   ![future work](/img/futureWork.png)
+   ![future work](/img/future_Work.jpg)
    
    * ***Detail:***
       * ***Remove VGG loss*** for reduce the ***dependency*** or ***mutual exclusion*** between loss functions
