@@ -118,7 +118,7 @@ tensorflow ver. 0.12.0-rc1
   
       ```python main.py --mode=testing```
       
- <br />
+<br />
   
 ### Results:
 
@@ -131,7 +131,7 @@ tensorflow ver. 0.12.0-rc1
 
    ![results_sheet](/img/results_sheet.jpg)
    
- <br />
+<br />
  
 ### Future work:
    
@@ -139,6 +139,7 @@ tensorflow ver. 0.12.0-rc1
    
    * ***Detail:***
       * ***Remove VGG loss*** for reduce the ***dependency*** or ***mutual exclusion*** between loss functions***
+<br />
 
 ### Referrence:
 
