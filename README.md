@@ -139,7 +139,7 @@ tensorflow ver. 0.12.0-rc1
    
    * ***Detail:***
    
-      * ***Remove VGG loss*** for reduce the ***dependency*** or ***mutual exclusion*** between loss functions
+      * ***Remove VGG loss*** to reduce the ***dependency*** or ***mutual exclusion*** between loss functions
 <br />
 
 ### Referrence:
