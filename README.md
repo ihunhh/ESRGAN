@@ -135,7 +135,7 @@ tensorflow ver. 0.12.0-rc1
  
 ### Future work:
    
-   ![future work](/img/FW.png)
+   ![future work](/img/futurework.png)
    
    * ***Detail:***
    
