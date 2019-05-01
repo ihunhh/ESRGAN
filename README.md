@@ -141,8 +141,8 @@ tensorflow ver. 0.12.0-rc1
    
       * ***Remove VGG loss*** to reduce the ***dependency*** or ***mutual exclusion*** between loss functions
       * Modifying the ***SSIM loss***, because if the loss function is a ***convex function***, that will help convergence  
-      * Trying import ***octave convolution*** to tune the high and low frequency signal ratio
-
+      * Trying import ***octave convolution*** to tune the high and low frequency signal ratio for better generator
+      
 <br />
 
 ### Referrence:
